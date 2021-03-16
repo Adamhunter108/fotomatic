@@ -1,0 +1,2 @@
+# fotomatic
+HTML/CSS demo
