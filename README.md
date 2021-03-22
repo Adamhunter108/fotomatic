@@ -1,8 +1,8 @@
-# fotomatic
+# fotomatic :camera:
 
 ---
 
-This was a Codecademy project to demonstrate HTML and CSS by creating a website for a fictitious company selling a new product.
+This is a project to demonstrate HTML and CSS by creating a website for a fictitious company selling a new product.
 
 ---
 
